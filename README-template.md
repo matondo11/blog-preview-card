@@ -1,6 +1,9 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).  
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+---
 
 ## Table of contents
 
@@ -11,49 +14,62 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author) -[Acknowledgments](#Acknowledgments)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+---
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.png)  
+*(Add your final screenshot here — for example, captured directly from your deployed GitHub Pages project.)*
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/matondo11/blog-preview-card.git)
-- Live Site URL: [Add live site URL here](https://matondo11.github.io/qr-code-component-main/)
+- Solution URL: [GitHub Repository](https://github.com/matondo11/blog-preview-card)  
+- Live Site URL: [Live Demo](https://matondo11.github.io/blog-preview-card/)
+
+---
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- Semantic **HTML5** markup
+- **CSS custom properties** for colors and typography
+- **Flexbox** for layout
+- **Mobile-first workflow**
 
 ### What I learned
 
-In this project, I improved my knowledge of:
+In this project, I improved my skills in:
 
-- Using CSS Flexbox to center elements on the screen
-- Creating responsive layouts with media queries
-- Working with CSS custom properties for colors and typography
+- Centering and aligning elements using Flexbox
+- Applying **responsive layouts** with media queries
+- Using **CSS variables** for better maintainability
+- Writing cleaner and more structured CSS
 
 ### Continued development
 
-I want to continue focusing on:
+In future projects, I want to:
 
-- Improving responsive design skills
-- Practicing CSS Grid for more complex layouts
-- Writing cleaner and more maintainable CSS
+- Improve advanced responsive design techniques  
+- Practice **CSS Grid** for more complex layouts  
+- Learn and apply **accessibility best practices**  
+- Focus on writing scalable and maintainable CSS code  
+
+---
 
 ## Author
 
-- Website - [Matondo Domingos Bunga](https://www.your-site.com)
-- Frontend Mentor - [@matondo11](https://www.frontendmentor.io/profile/yourusername)
+- Website – [Matondo Domingos Bunga](https://www.your-site.com)  
+- Frontend Mentor – [@matondo11](https://www.frontendmentor.io/profile/matondo11)
+
+---
 
 ## Acknowledgments
 
-Thanks to the Frontend Mentor community for inspiration and feedback.
+Thanks to the **Frontend Mentor community** for providing feedback and inspiration.  
+Special thanks to documentation resources and tutorials that helped me reinforce my knowledge of CSS Flexbox and responsive design.
