@@ -24,7 +24,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Screenshot
 
 ![](./screenshot.png)  
-*(Add your final screenshot here — for example, captured directly from your deployed GitHub Pages project.)*
+
 
 ### Links
 
